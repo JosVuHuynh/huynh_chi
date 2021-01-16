@@ -9,7 +9,7 @@ def print_hi(name):
     print("hello world")
     print("hello chi")
     print("hello huynh")
-    print("test git fetch")
+    print("test git fetch 1")
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
