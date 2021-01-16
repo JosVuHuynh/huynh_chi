@@ -10,6 +10,7 @@ def print_hi(name):
     print("hello chi")
     print("hello huynh")
     print("test git fetch 2")
+    print('test branch rename')
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
