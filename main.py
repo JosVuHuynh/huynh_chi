@@ -22,3 +22,4 @@ if __name__ == '__main__':
 
 
 'add a commit to master'
+'rebase is easy'
